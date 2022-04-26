@@ -1,4 +1,4 @@
-#Project Web Scraping using Scrapy 
+# Project Web Scraping using Scrapy 
 
 This is a project where I applied scrapy to put into practice my skills in python and 
 learning new technologies.
